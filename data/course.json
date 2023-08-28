@@ -1,0 +1,64 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Condensed Matter Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Particle Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Relativity"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Theoretical Physics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "a084db3f-ef13-beb4-52b9-7d2ff87ceb36"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "359ce80f-971b-497b-98a2-292772318ade",
+    "website": "relativistic-quantum-field-theory-i"
+  },
+  "course_title": "Relativistic Quantum Field Theory I",
+  "hide_download": false,
+  "course_description": "This course is a one-term self-contained subject in quantum field theory. Concepts and basic techniques are developed through applications in elementary particle physics and condensed matter physics.",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.323",
+  "course_image_thumbnail": {
+    "content": "a5891642-1c0e-4ef8-8e50-5edced2ca712",
+    "website": "relativistic-quantum-field-theory-i"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets with Solutions",
+    "Readings"
+  ],
+  "site_uid": "ec977747-1fd7-439c-8ed3-110854954232",
+  "site_short_id": "8.323-spring-2023"
+}
