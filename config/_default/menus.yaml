@@ -11,9 +11,9 @@ leftnav:
   name: Readings
   pageRef: /pages/readings
   weight: 30
-- identifier: 4ada7a24-11fd-484a-b9ce-0a2cfda8b96a
+- identifier: 635b18d9-cc65-4123-950d-77d3e5fb3a2b
   name: Lecture Videos
-  pageRef: /pages/lecture-videos
+  pageRef: /video_galleries/lecture-videos
   weight: 40
 - identifier: 5449e895-525b-4ea8-83c4-fe5faef1a216
   name: Recitations
