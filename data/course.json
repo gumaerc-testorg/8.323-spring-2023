@@ -57,7 +57,8 @@
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets with Solutions",
-    "Readings"
+    "Readings",
+    "Recitation Notes"
   ],
   "site_uid": "ec977747-1fd7-439c-8ed3-110854954232",
   "site_short_id": "8.323-spring-2023"
