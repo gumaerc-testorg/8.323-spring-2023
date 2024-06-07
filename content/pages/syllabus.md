@@ -24,17 +24,17 @@ You must complete [*8.321 Quantum Theory I*](https://ocw.mit.edu/courses/8-321-q
 ## Topics
 
 - Why quantum field theory
-    - Principle of locality: classical field theories             
-        Action principle, Lagrangian and Hamiltonian            
+    - Principle of locality: classical field theories              
+        Action principle, Lagrangian and Hamiltonian             
         Symmetry and Noether's theorem
-    - Implications of relativistic symmetry            
-        What is wrong of relativistic quantum mechanics            
+    - Implications of relativistic symmetry             
+        What is wrong with relativistic quantum mechanics             
         Special relativity plus quantum mechanics requires quantum field theory
-    - Continuum limit of discrete systems           
+    - Continuum limit of discrete systems            
         Many condensed matter applications
 - Free scalar field theories
-    - Canonical quantization of a free scalar field           
-        Particle interpretation           
+    - Canonical quantization of a free scalar field            
+        Particle interpretation            
         Propagators
     - Complex scalar fields
 - Interactions: path integral approach
@@ -54,8 +54,8 @@ You must complete [*8.321 Quantum Theory I*](https://ocw.mit.edu/courses/8-321-q
     - Path integral quantization
 - Quantum electrodynamics
     - Feynman rules 
-    - Elementary processes          
-        \\(e^+e^-\rightarrow\mu^+\mu^-\\)          
+    - Elementary processes           
+        \\(e^+e^-\rightarrow\mu^+\mu^-\\)           
         Compton and inverse Compton scatterings
 
 ## Required Textbooks
