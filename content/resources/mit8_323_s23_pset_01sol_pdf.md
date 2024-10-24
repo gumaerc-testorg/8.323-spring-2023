@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/8-323-relativistic-quantum-field-theory-i-spring-2023/mit8_323_s23_pset_01sol.pdf
+file: /ol-ocw-studio-app/courses/8-323-relativistic-quantum-field-theory-i-spring-2023/mit8_323_s23_pset_01sol.pdf
 file_size: 277353
 file_type: application/pdf
 image_metadata:
