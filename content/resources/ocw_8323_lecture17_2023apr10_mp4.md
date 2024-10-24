@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/8-323-relativistic-quantum-field-theory-i-spring-2023/ocw_8323_lecture17_2023apr10_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/8-323-relativistic-quantum-field-theory-i-spring-2023/ocw_8323_lecture17_2023apr10_360p_16_9.mp4
 file_size: 152128452
 file_type: video/mp4
 image_metadata:
