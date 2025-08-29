@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/relativistic-quantum-field-theory-i/mit8_323_s23_rec06.pdf
+file: /ol-ocw-studio-app/courses/8-323-relativistic-quantum-field-theory-i-spring-2023/mit8_323_s23_rec06.pdf
 file_size: 328626
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Recitation Notes
+- Problem-solving Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: 8.323 Relativistic Quantum Field Theory I (Spring 2023), Recitation 6
