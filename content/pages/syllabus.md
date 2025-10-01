@@ -15,7 +15,7 @@ Recitations: 1 session / week; 1 hour / session
 
 ## Prerequisite
 
-You must complete [*8.321 Quantum Theory I*](https://ocw.mit.edu/courses/8-321-quantum-theory-i-fall-2017/) before attempting this course.
+You must complete {{% resource_link "08fab85d-020c-4bf4-96e8-2206dbdb283a" "*8.321 Quantum Theory I*" %}} before attempting this course.
 
 ## Description
 
